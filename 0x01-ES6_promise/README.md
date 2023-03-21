@@ -54,3 +54,10 @@ That returns a resolved promise with this object:
   lastName: value,
 }
 
+### 5-photo-reject.js
+
+Write and export a function named uploadPhoto. It should accept one argument fileName (string).
+
+The function should return a Promise rejecting with an Error and the string $fileName cannot be processed
+
+
