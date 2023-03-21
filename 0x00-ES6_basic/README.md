@@ -33,4 +33,9 @@ Using spread syntax, concatenate 2 arrays and each character of a string by modi
 
 Rewrite the return statement to use a template literal so you can the substitute the variables you’ve defined.
 
+### 7-getBudgetObject.js
+
+Notice how the keys and the variable names are the same?
+
+Modify the following function’s budget object to simply use the keyname instead.
 
