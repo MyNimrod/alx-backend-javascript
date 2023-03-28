@@ -25,3 +25,21 @@ Your code will be tested using Jest and the command npm run test
 Your code will be verified against lint using ESLint
 All of your functions must be exported
 
+### 0x02-ES6_classes
+
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+How to define a Class
+How to add methods to a class
+Why and how to add a static method to a class
+How to extend a class from another
+Metaprogramming and symbols
+
+### 0x03-ES6_data_manipulation
+
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+How to use map, filter and reduce on arrays
+Typed arrays
+The Set, Map, and Weak link data structures
+
