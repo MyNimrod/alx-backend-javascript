@@ -43,3 +43,27 @@ How to use map, filter and reduce on arrays
 Typed arrays
 The Set, Map, and Weak link data structures
 
+### 0x04-TypeScript
+
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+Basic types in Typescript
+Interfaces, Classes, and functions
+How to work with the DOM and Typescript
+Generic types
+How to use namespaces
+How to merge declarations
+How to use an ambient Namespace to import an external library
+Basic nominal typing with Typescript
+
+### alx-backend-javascript
+
+run javascript using NodeJS
+use NodeJS modules
+use specific Node JS module to read files
+use process to access command line arguments and the environment
+create a small HTTP server using Node JS
+create a small HTTP server using Express JS
+create advanced routes with Express JS
+use ES6 with Node JS with Babel-node
+use Nodemon to develop faster
